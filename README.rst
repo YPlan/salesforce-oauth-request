@@ -1,6 +1,15 @@
 Salesforce Oauth Request
 ========================
 
+----
+
+NO LONGER USED
+--------------
+
+This library is no longer used or maintained by YPlan.
+
+----
+
 A bit of Requests driven utility code to drive the Salesforce.com Oauth2
 Web flow. Use this module to login to a Salesforce account using just
 the username and password. Good for tests and scripts which need
